@@ -1,4 +1,5 @@
 import React from 'react';
+import Input from '../component/Input';
 
 import './Header.scss';
 
@@ -7,8 +8,11 @@ function App() {
     <div className="header">
       <div className="inner">
         <h1 className="logo">
-          <img src="/homepage_logo.svg" alt="로고 이미지"></img>
+          <a href="#">
+            <img src="/homepage_logo.svg" alt="로고 이미지" />
+          </a>
         </h1>
+        <Input />
       </div>
     </div>
   );
