@@ -2,7 +2,7 @@ import React from 'react';
 
 import './Input.scss';
 
-function App() {
+function Input() {
   return (
     <div className="input-box">
       <input type="text" placeholder="Search for brand, color, etc." className="input-text " />
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default Input;

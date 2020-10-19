@@ -3,7 +3,7 @@ import React from 'react';
 
 import './Lnb.scss';
 
-function App() {
+function Lnb() {
   return (
     <div className="lnb">
       <ul className="lnb-list">
@@ -25,4 +25,4 @@ function App() {
   );
 }
 
-export default App;
+export default Lnb;

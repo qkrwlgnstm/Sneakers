@@ -1,12 +1,16 @@
 .product-area {
-  
+  margin-bottom: 50px;
 }
 .product-list {
   overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0 -10px;
   .list-item {
-    float: left;
-    width: 265px;
-    margin-left: 20px;
+    width: 25%;
+    padding: 10px;
+    box-sizing: border-box;
     &:first-child {
       margin-left: 0;
     }
@@ -23,6 +27,7 @@
     min-height: 84px;
     padding: 15px;
     background-color: #fafafa;
+    border-top: 1px solid #eee;
     text-align: left;
     box-sizing: border-box;
   }

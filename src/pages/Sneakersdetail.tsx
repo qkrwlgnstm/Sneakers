@@ -5,7 +5,7 @@ import Lnb from '../component/Lnb';
 import Productlist from '../component/Productlist';
 import './Sneakersdetail.scss';
 
-function App() {
+function Sneakersdetail() {
   return (
     <div className="wrap">
       <Header/>
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default Sneakersdetail;
