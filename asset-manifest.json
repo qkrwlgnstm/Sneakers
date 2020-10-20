@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/qkrwlgnstm/Sneakers.git/static/css/main.057d2148.chunk.css",
+    "main.js": "/qkrwlgnstm/Sneakers.git/static/js/main.5553c854.chunk.js",
+    "main.js.map": "/qkrwlgnstm/Sneakers.git/static/js/main.5553c854.chunk.js.map",
+    "runtime-main.js": "/qkrwlgnstm/Sneakers.git/static/js/runtime-main.cbcdf8e8.js",
+    "runtime-main.js.map": "/qkrwlgnstm/Sneakers.git/static/js/runtime-main.cbcdf8e8.js.map",
+    "static/js/2.cbaeb2bf.chunk.js": "/qkrwlgnstm/Sneakers.git/static/js/2.cbaeb2bf.chunk.js",
+    "static/js/2.cbaeb2bf.chunk.js.map": "/qkrwlgnstm/Sneakers.git/static/js/2.cbaeb2bf.chunk.js.map",
+    "index.html": "/qkrwlgnstm/Sneakers.git/index.html",
+    "precache-manifest.5ffc44fb5dc48852a4ef70d98897f1bd.js": "/qkrwlgnstm/Sneakers.git/precache-manifest.5ffc44fb5dc48852a4ef70d98897f1bd.js",
+    "service-worker.js": "/qkrwlgnstm/Sneakers.git/service-worker.js",
+    "static/css/main.057d2148.chunk.css.map": "/qkrwlgnstm/Sneakers.git/static/css/main.057d2148.chunk.css.map",
+    "static/js/2.cbaeb2bf.chunk.js.LICENSE.txt": "/qkrwlgnstm/Sneakers.git/static/js/2.cbaeb2bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbcdf8e8.js",
+    "static/js/2.cbaeb2bf.chunk.js",
+    "static/css/main.057d2148.chunk.css",
+    "static/js/main.5553c854.chunk.js"
+  ]
+}
