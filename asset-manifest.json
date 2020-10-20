@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/qkrwlgnstm/Sneakers.git/static/css/main.057d2148.chunk.css",
-    "main.js": "/qkrwlgnstm/Sneakers.git/static/js/main.5553c854.chunk.js",
-    "main.js.map": "/qkrwlgnstm/Sneakers.git/static/js/main.5553c854.chunk.js.map",
-    "runtime-main.js": "/qkrwlgnstm/Sneakers.git/static/js/runtime-main.cbcdf8e8.js",
-    "runtime-main.js.map": "/qkrwlgnstm/Sneakers.git/static/js/runtime-main.cbcdf8e8.js.map",
-    "static/js/2.cbaeb2bf.chunk.js": "/qkrwlgnstm/Sneakers.git/static/js/2.cbaeb2bf.chunk.js",
-    "static/js/2.cbaeb2bf.chunk.js.map": "/qkrwlgnstm/Sneakers.git/static/js/2.cbaeb2bf.chunk.js.map",
-    "index.html": "/qkrwlgnstm/Sneakers.git/index.html",
-    "precache-manifest.5ffc44fb5dc48852a4ef70d98897f1bd.js": "/qkrwlgnstm/Sneakers.git/precache-manifest.5ffc44fb5dc48852a4ef70d98897f1bd.js",
-    "service-worker.js": "/qkrwlgnstm/Sneakers.git/service-worker.js",
-    "static/css/main.057d2148.chunk.css.map": "/qkrwlgnstm/Sneakers.git/static/css/main.057d2148.chunk.css.map",
-    "static/js/2.cbaeb2bf.chunk.js.LICENSE.txt": "/qkrwlgnstm/Sneakers.git/static/js/2.cbaeb2bf.chunk.js.LICENSE.txt"
+    "main.css": "/Sneakers/static/css/main.057d2148.chunk.css",
+    "main.js": "/Sneakers/static/js/main.520649f5.chunk.js",
+    "main.js.map": "/Sneakers/static/js/main.520649f5.chunk.js.map",
+    "runtime-main.js": "/Sneakers/static/js/runtime-main.0d20fd18.js",
+    "runtime-main.js.map": "/Sneakers/static/js/runtime-main.0d20fd18.js.map",
+    "static/js/2.cbaeb2bf.chunk.js": "/Sneakers/static/js/2.cbaeb2bf.chunk.js",
+    "static/js/2.cbaeb2bf.chunk.js.map": "/Sneakers/static/js/2.cbaeb2bf.chunk.js.map",
+    "index.html": "/Sneakers/index.html",
+    "precache-manifest.2b03dbdf0fd9bfd522924a8bbffc27f6.js": "/Sneakers/precache-manifest.2b03dbdf0fd9bfd522924a8bbffc27f6.js",
+    "service-worker.js": "/Sneakers/service-worker.js",
+    "static/css/main.057d2148.chunk.css.map": "/Sneakers/static/css/main.057d2148.chunk.css.map",
+    "static/js/2.cbaeb2bf.chunk.js.LICENSE.txt": "/Sneakers/static/js/2.cbaeb2bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbcdf8e8.js",
+    "static/js/runtime-main.0d20fd18.js",
     "static/js/2.cbaeb2bf.chunk.js",
     "static/css/main.057d2148.chunk.css",
-    "static/js/main.5553c854.chunk.js"
+    "static/js/main.520649f5.chunk.js"
   ]
 }
