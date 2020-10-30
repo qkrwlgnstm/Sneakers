@@ -4,6 +4,7 @@ import Banner from '../component/Banner';
 import Lnb from '../component/Lnb';
 import Productlist from '../component/Productlist';
 import './Sneakersdetail.scss';
+import FireBaseTestFile from '../component/FireBaseTestFile';
 
 function Sneakersdetail() {
   return (
@@ -13,6 +14,7 @@ function Sneakersdetail() {
         <Banner/>
         <Lnb/>
         <Productlist/>
+        <FireBaseTestFile/>
       </div>
     </div>
   );
